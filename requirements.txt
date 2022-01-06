@@ -1,0 +1,6 @@
+Django
+djangorestframework
+python-decouple==3.5
+requests
+gunicorn
+django-heroku
